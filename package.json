@@ -1,0 +1,33 @@
+{
+  "name": "android-tv-remote-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "bundle:android": "react-native bundle --platform android --dev false --entry-file index.js --bundle-output android/app/src/main/assets/index.android.bundle --assets-dest android/app/src/main/res/",
+    "build:debug": "npm run bundle:android && cd android && JAVA_HOME=$HOME/.jdk ANDROID_HOME=$HOME/Android/Sdk PATH=$HOME/.jdk/bin:$PATH ./gradlew assembleDebug",
+    "build:release": "cd android && JAVA_HOME=$HOME/.jdk ANDROID_HOME=$HOME/Android/Sdk PATH=$HOME/.jdk/bin:$PATH ./gradlew assembleRelease",
+    "install:phone": "$HOME/Android/Sdk/platform-tools/adb install -r android/app/build/outputs/apk/release/app-release.apk",
+    "android": "JAVA_HOME=$HOME/.jdk ANDROID_HOME=$HOME/Android/Sdk PATH=$HOME/.jdk/bin:$HOME/Android/Sdk/platform-tools:$PATH react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "react": "18.3.1",
+    "react-native": "0.76.1",
+    "react-native-vector-icons": "^10.3.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.25.2",
+    "@babel/preset-env": "^7.25.3",
+    "@babel/runtime": "^7.25.0",
+    "@react-native-community/cli": "^15.0.1",
+    "@react-native-community/cli-platform-android": "^15.0.1",
+    "@react-native/babel-preset": "0.76.1",
+    "@react-native/metro-config": "0.76.1",
+    "@types/react": "^18.3.12",
+    "@types/react-native-vector-icons": "^6.4.18",
+    "typescript": "^5.0.4"
+  }
+}
