@@ -89,3 +89,4 @@ If you don't have a physical Android TV on your local network:
 - [ ] Home Assistant / MQTT integration.
 - [ ] iOS target support (porting the Polo TLS socket client to Swift).
 - [ ] Localizations and multilingual support.
+
