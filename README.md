@@ -55,7 +55,7 @@
 │          Android Native Module (Kotlin)                │
 │  - AndroidTvRemoteModule (Single-thread Command Queue) │
 │  - PoloProtocol (Polo Pairing & Remote v2 Protocol)    │
-│  - KeyStoreHelper (BouncyCastle TLS Cert Generation)   │
+│  - SslHelper (BouncyCastle TLS Cert & SSL Context)   │
 │  - NsdManager (mDNS _androidtvremote2._tcp Discovery)  │
 └───────────────────────────┬────────────────────────────┘
                             │ (TLS Encrypted TCP Sockets)

@@ -58,7 +58,7 @@ If you don't have a physical Android TV on your local network:
     └── app/src/main/java/com/androidtvremote/
         ├── AndroidTvRemoteModule.kt # React Native native bridge
         ├── PoloProtocol.kt          # Google Polo protocol packet serializer
-        └── KeyStoreHelper.kt        # Self-signed TLS cert generator
+        └── SslHelper.kt             # Self-signed TLS cert generator & SSL context
 ```
 
 ---
