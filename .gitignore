@@ -32,3 +32,5 @@ Thumbs.db
 *.log
 .temp/
 
+# Internal project plans & notes
+OPEN_SOURCE_PLAN.md
