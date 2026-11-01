@@ -4,6 +4,19 @@
   <p><b>A sleek, zero-latency, local-network open-source remote control for Android TV and Google TV.</b></p>
 
   <p>
+    <a href="https://github.com/<your-username>/smarttv-remote/releases/latest">
+      <img src="https://img.shields.io/badge/Download-Android_APK-success?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" />
+    </a>
+    <a href="https://github.com/<your-username>/smarttv-remote/releases">
+      <img src="https://img.shields.io/badge/Version-v1.0.0-blue?style=for-the-badge" alt="Latest Version" />
+    </a>
+    <a href="LICENSE">
+      <img src="https://img.shields.io/badge/License-MIT-orange?style=for-the-badge" alt="MIT License" />
+    </a>
+  </p>
+
+  <p>
+    <a href="#-download">Download</a> •
     <a href="#-features">Features</a> •
     <a href="#-screenshots">Screenshots</a> •
     <a href="#-architecture">Architecture</a> •
@@ -13,6 +26,26 @@
     <a href="LICENSE">License</a>
   </p>
 </div>
+
+---
+
+## 📥 Download
+
+You can download the latest pre-compiled APK directly to your phone without building from source:
+
+| Source | Link | Compatibility |
+| :--- | :--- | :--- |
+| **GitHub Releases** *(Recommended)* | [**Download Latest APK (`.apk`)**](https://github.com/<your-username>/smarttv-remote/releases/latest) | Android 8.0+ (Oreo to Android 15) |
+| **Build from Source** | [Building the APK](#-building-the-apk) | Node.js 18+ & Java 17 |
+| **F-Droid** | *Coming Soon* | Official Open-Source Repository |
+
+### 📲 Quick Install Guide:
+1. Tap the **[Download Latest APK](https://github.com/<your-username>/smarttv-remote/releases/latest)** link on your Android phone.
+2. Under the latest release assets, download `SmartTV-Remote-v1.0.0.apk` (or `app-release.apk`).
+3. Tap the downloaded file in your browser or **Files** app.
+4. If prompted with *"For your security, your phone is not allowed to install unknown apps from this source"*, tap **Settings** and toggle **Allow from this source**.
+5. Tap **Install** and open **SmartTV Remote**!
+6. Ensure your phone and Android TV / Google TV are on the **same Wi-Fi network**, tap the TV name (or enter IP manually), and enter the 4 or 6-character PIN displayed on your TV screen.
 
 ---
 

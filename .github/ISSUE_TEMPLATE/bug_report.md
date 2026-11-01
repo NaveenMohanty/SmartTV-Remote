@@ -26,3 +26,4 @@ A clear and concise description of what you expected to happen.
 
 **Screenshots / Logs**
 If applicable, add screenshots or terminal/logcat outputs to help explain your problem.
+

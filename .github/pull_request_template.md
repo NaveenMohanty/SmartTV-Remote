@@ -17,3 +17,4 @@ Fixes # (issue)
 - [ ] `npx tsc --noEmit` passes with zero errors
 - [ ] `npm run bundle:android` generates the bundle without errors
 - [ ] I have tested these changes on an emulator or physical device
+

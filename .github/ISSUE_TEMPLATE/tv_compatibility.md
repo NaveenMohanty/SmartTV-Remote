@@ -22,3 +22,4 @@ assignees: ''
 
 **Notes / Observations**
 Any quirks or specific settings required on the TV (e.g., enabling "Network Standby" or "Remote Control").
+
