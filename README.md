@@ -1,11 +1,27 @@
-# SmartTV Remote 📺📱
+<div align="center">
+  <img src="docs/screenshots/app_icon.png" width="128" height="128" alt="SmartTV Remote Logo" />
+  <h1>SmartTV Remote</h1>
+  <p><b>A sleek, zero-latency, local-network open-source remote control for Android TV and Google TV.</b></p>
 
-A sleek, fast, local-network open-source remote control for Android TV and Google TV devices. Built with **React Native (TypeScript)** and a high-performance **Kotlin native module**.
+  <p>
+    <a href="#-features">Features</a> •
+    <a href="#-screenshots">Screenshots</a> •
+    <a href="#-architecture">Architecture</a> •
+    <a href="#-getting-started">Getting Started</a> •
+    <a href="#-building-the-apk">Building APK</a> •
+    <a href="CONTRIBUTING.md">Contributing</a> •
+    <a href="LICENSE">License</a>
+  </p>
+</div>
+
+---
+
+## 📸 Screenshots
 
 <p align="center">
-  <img src="docs/screenshots/remote_main.png" width="250" alt="SmartTV Remote Main Screen" />
+  <img src="docs/screenshots/app_remote.png" width="260" alt="SmartTV Remote Main Interface" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="docs/screenshots/app_picker.png" width="250" alt="App Shortcut Picker" />
+  <img src="docs/screenshots/app_picker.png" width="260" alt="Custom App Shortcut Picker" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="docs/screenshots/tablet_mode.png" width="310" alt="Tablet & Foldable View" />
 </p>
