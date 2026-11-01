@@ -25,7 +25,8 @@ Before making code public, repository hygiene and safety are essential. These fi
 - [x] **`README.md`**: Storefront with architecture diagrams, feature list, prerequisites, and build commands.
 - [x] **`CONTRIBUTING.md`**: Instructions for new contributors on project structure, local testing (with/without physical TV), and PR rules.
 - [x] **`.github/workflows/ci.yml`**: Continuous Integration workflow that automatically type-checks (`tsc`) and compiles the Android app on every Pull Request.
-- [x] **Clean Git Commit**: Initial commit created on branch `main` with zero tracked junk files.
+- [x] **`.github/ISSUE_TEMPLATE/` & PR Template**: Standardized templates for bug reports, feature requests, TV compatibility testing, and PR reviews.
+- [x] **Clean Git Commit**: Initial commits created on branch `main` with zero tracked junk files, secrets, or unreferenced assets.
 
 ---
 
