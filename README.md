@@ -4,10 +4,10 @@
   <p><b>A sleek, zero-latency, local-network open-source remote control for Android TV and Google TV.</b></p>
 
   <p>
-    <a href="https://github.com/<your-username>/smarttv-remote/releases/latest">
+    <a href="https://github.com/NaveenMohanty/SmartTV-Remote/releases/latest">
       <img src="https://img.shields.io/badge/Download-Android_APK-success?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" />
     </a>
-    <a href="https://github.com/<your-username>/smarttv-remote/releases">
+    <a href="https://github.com/NaveenMohanty/SmartTV-Remote/releases">
       <img src="https://img.shields.io/badge/Version-v1.0.0-blue?style=for-the-badge" alt="Latest Version" />
     </a>
     <a href="LICENSE">
@@ -35,12 +35,12 @@ You can download the latest pre-compiled APK directly to your phone without buil
 
 | Source | Link | Compatibility |
 | :--- | :--- | :--- |
-| **GitHub Releases** *(Recommended)* | [**Download Latest APK (`.apk`)**](https://github.com/<your-username>/smarttv-remote/releases/latest) | Android 8.0+ (Oreo to Android 15) |
+| **GitHub Releases** *(Recommended)* | [**Download Latest APK (`.apk`)**](https://github.com/NaveenMohanty/SmartTV-Remote/releases/latest) | Android 8.0+ (Oreo to Android 15) |
 | **Build from Source** | [Building the APK](#-building-the-apk) | Node.js 18+ & Java 17 |
 | **F-Droid** | *Coming Soon* | Official Open-Source Repository |
 
 ### 📲 Quick Install Guide:
-1. Tap the **[Download Latest APK](https://github.com/<your-username>/smarttv-remote/releases/latest)** link on your Android phone.
+1. Tap the **[Download Latest APK](https://github.com/NaveenMohanty/SmartTV-Remote/releases/latest)** link on your Android phone.
 2. Under the latest release assets, download `SmartTV-Remote-v1.0.0.apk` (or `app-release.apk`).
 3. Tap the downloaded file in your browser or **Files** app.
 4. If prompted with *"For your security, your phone is not allowed to install unknown apps from this source"*, tap **Settings** and toggle **Allow from this source**.
@@ -110,8 +110,8 @@ You can download the latest pre-compiled APK directly to your phone without buil
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/<your-username>/smarttv-remote.git
-   cd smarttv-remote
+   git clone https://github.com/NaveenMohanty/SmartTV-Remote.git
+   cd SmartTV-Remote
    ```
 
 2. **Install dependencies**:

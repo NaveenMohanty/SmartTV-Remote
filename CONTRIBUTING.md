@@ -13,7 +13,7 @@ Thank you for your interest in contributing to **SmartTV Remote**! This guide wi
 
 2. **Clone & Install**:
    ```bash
-   git clone https://github.com/<your-username>/smarttv-remote.git
+   git clone https://github.com/NaveenMohanty/SmartTV-Remote.git
    cd smarttv-remote
    npm install
    ```
