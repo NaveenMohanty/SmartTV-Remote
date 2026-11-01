@@ -2,6 +2,14 @@
 
 A sleek, fast, local-network open-source remote control for Android TV and Google TV devices. Built with **React Native (TypeScript)** and a high-performance **Kotlin native module**.
 
+<p align="center">
+  <img src="docs/screenshots/remote_main.png" width="250" alt="SmartTV Remote Main Screen" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="docs/screenshots/app_picker.png" width="250" alt="App Shortcut Picker" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="docs/screenshots/tablet_mode.png" width="310" alt="Tablet & Foldable View" />
+</p>
+
 ---
 
 ## ✨ Features
