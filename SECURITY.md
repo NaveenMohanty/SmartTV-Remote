@@ -22,3 +22,4 @@ If you believe you have found a security vulnerability:
 - Device / TV environment details where the issue was observed.
 
 We will acknowledge receipt of your report within 48 hours and provide a timeline for triage and remediation.
+
